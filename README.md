@@ -6,7 +6,8 @@ This repository contains Task 2: Data Cleaning & EDA on Student Performance data
 This project contains a brief Exploratory Data Analysis (EDA) on ABC Institute student performance.
 The dataset was cleaned and analyzed to understand subject-wise trends, score distributions, and overall academic patterns.
 
-🔍 Key Insights
+🔍 Key Insights :
+
 Math shows the highest variation in scores.
 
 Reading and Writing scores are strongly correlated.
